@@ -110,6 +110,9 @@
         <ownedLinks xsi:type="traceability:Link" type="85fceac2-4b2e-4058-a76f-acdd60c5355f" artifact="cf5b61dd-826a-4ff6-9229-691a40e024de" id="540a6dfd-1bc6-40fb-a753-37cb680d86bc">
           <modelObject href="CR_Ventilator.capella#4e5412d6-dc84-4534-9cf6-7817588ce21c"/>
         </ownedLinks>
+        <ownedLinks xsi:type="traceability:Link" type="85fceac2-4b2e-4058-a76f-acdd60c5355f" artifact="cf5b61dd-826a-4ff6-9229-691a40e024de" id="e217fe2a-ce04-4204-8709-f628ffee0320">
+          <modelObject href="CR_Ventilator.capella#bebee4a0-2299-46c2-a3da-f00a8dae82aa"/>
+        </ownedLinks>
       </ownedArtifacts>
       <ownedArtifacts xsi:type="traceability:Artifact" types="90c91da3-9763-449d-9607-d669fe11a1d6" title="The ventilator shall provide an O2 intake port and connector which shall allow c..." url="https://polarion.diswx.com/polarion/oslc/services/projects/VentilatorSystem/workitems/VS-653" identifier="VS-653" id="a46b976f-4839-47c9-986b-ae8a91f0fcd8">
         <ownedLinks xsi:type="traceability:Link" type="85fceac2-4b2e-4058-a76f-acdd60c5355f" artifact="a46b976f-4839-47c9-986b-ae8a91f0fcd8" id="359040e2-4337-4719-be1c-769592ae9deb">
@@ -155,6 +158,9 @@
         <value artifactURL="https://polarion.diswx.com/polarion/oslc/services/projects/VentilatorSystem/workitems/VS-1520" typeName="oslc_rm:satisfies"/>
       </linksByModelObjectId>
       <linksByModelObjectId key="4e5412d6-dc84-4534-9cf6-7817588ce21c">
+        <value artifactURL="https://polarion.diswx.com/polarion/oslc/services/projects/VentilatorSystem/workitems/VS-1517" typeName="oslc_rm:satisfies"/>
+      </linksByModelObjectId>
+      <linksByModelObjectId key="bebee4a0-2299-46c2-a3da-f00a8dae82aa">
         <value artifactURL="https://polarion.diswx.com/polarion/oslc/services/projects/VentilatorSystem/workitems/VS-1517" typeName="oslc_rm:satisfies"/>
       </linksByModelObjectId>
       <linksByModelObjectId key="4ee31a8f-432b-4cfd-bc9b-6f842d7863bc">
